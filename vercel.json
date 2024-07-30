@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "builds": [
+        {
+            "src": "bot.js",
+            "use": "@vercel/node"
+        }
+    ],
+    "env": {
+        "TELEGRAM_BOT_TOKEN": "6837124154:AAGzBssAsawKt6DRxcNm5bbsXOFjBc5qUWY",
+        "TELEGRAM_WEB_APP_URL": "https://my-telegram-pwpt4735k-benhurmartins-projects.vercel.app"
+    }
+}
